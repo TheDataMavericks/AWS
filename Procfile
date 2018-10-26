@@ -1,1 +1,1 @@
-web: gunicorn datamaverick.app:app
+web: gunicorn datamaverick-production:8080
